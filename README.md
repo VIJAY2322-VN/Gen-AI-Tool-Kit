@@ -5,6 +5,7 @@ Generative AI Toolkit is a Python-based project that demonstrates the implementa
 
 The repository includes modules for:
 - AI Chatbot Interaction
+- RAG analysis
 - Text Generation
 - Sentiment Analysis
 - Text Summarization
